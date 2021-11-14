@@ -1,0 +1,10 @@
+D:\EstiProject\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+D:\EstiProject\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+D:\EstiProject\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.csprojAssemblyReference.cache
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
