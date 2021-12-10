@@ -18,10 +18,6 @@ namespace login_and_Register_System
             InitializeComponent();
         }
 
-        OleDbConnection con = new OleDbConnection("Provider = Microsoft.Jet.OLEDB.4.0; Data Source = db_users.mdb");
-        OleDbCommand cmd = new OleDbCommand();
-        OleDbDataAdapter da = new OleDbDataAdapter();
-
         private void label5_Click(object sender, EventArgs e)
         {
 
@@ -36,17 +32,8 @@ namespace login_and_Register_System
             }
             else if (txtpassword.Text == txtComPassword.Text)
             {
-                con.Open();
-                string register = "INSERT INTO tbl_users VALUES ('" + txtUsername.Text + "','" + txtpassword.Text + "')";
-                cmd = new OleDbCommand(register, con);
-                cmd.ExecuteNonQuery();
-                con.Close();
-
-                txtUsername.Text = "";
-                txtpassword.Text = "";
-                txtComPassword.Text = "";
-
-                MessageBox.Show("Your Account has been Successfully Created", "Registration Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                new EmailVerification(txtUsername.Text, txtpassword.Text).Show();
+                this.Hide();
             }
             else
             {

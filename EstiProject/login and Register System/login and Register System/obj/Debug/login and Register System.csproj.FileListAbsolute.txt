@@ -8,3 +8,15 @@ D:\EstiProject\login and Register System\login and Register System\obj\Debug\log
 D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
 D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.exe
 D:\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.AssemblyReference.cache
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CoreCompileInputs.cache
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\firots\Desktop\EstiProject\login and Register System\login and Register System\obj\Debug\login_and_Register_System.EmailVerification.resources

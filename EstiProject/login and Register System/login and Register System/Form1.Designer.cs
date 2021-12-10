@@ -47,9 +47,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("MS UI Gothic", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Crimson;
-            this.label1.Location = new System.Drawing.Point(97, 60);
+            this.label1.Location = new System.Drawing.Point(108, 60);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(194, 33);
+            this.label1.Size = new System.Drawing.Size(159, 27);
             this.label1.TabIndex = 0;
             this.label1.Text = "Registration";
             // 
@@ -58,18 +58,18 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Nirmala UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Gray;
-            this.label2.Location = new System.Drawing.Point(29, 145);
+            this.label2.Location = new System.Drawing.Point(30, 141);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(111, 28);
+            this.label2.Size = new System.Drawing.Size(57, 21);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Username:";
+            this.label2.Text = "Email:";
             // 
             // txtUsername
             // 
             this.txtUsername.BackColor = System.Drawing.Color.Gainsboro;
             this.txtUsername.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtUsername.Font = new System.Drawing.Font("MS UI Gothic", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.txtUsername.Location = new System.Drawing.Point(34, 186);
+            this.txtUsername.Location = new System.Drawing.Point(33, 190);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(296, 35);
@@ -94,7 +94,7 @@
             this.label3.ForeColor = System.Drawing.Color.Gray;
             this.label3.Location = new System.Drawing.Point(29, 240);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(105, 28);
+            this.label3.Size = new System.Drawing.Size(85, 21);
             this.label3.TabIndex = 3;
             this.label3.Text = "Password:";
             // 
@@ -117,7 +117,7 @@
             this.label4.ForeColor = System.Drawing.Color.Gray;
             this.label4.Location = new System.Drawing.Point(29, 338);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(187, 28);
+            this.label4.Size = new System.Drawing.Size(151, 21);
             this.label4.TabIndex = 5;
             this.label4.Text = "Confirm Password:";
             // 
@@ -129,7 +129,7 @@
             this.CheckbxShowPas.ForeColor = System.Drawing.Color.DarkGray;
             this.CheckbxShowPas.Location = new System.Drawing.Point(179, 420);
             this.CheckbxShowPas.Name = "CheckbxShowPas";
-            this.CheckbxShowPas.Size = new System.Drawing.Size(151, 27);
+            this.CheckbxShowPas.Size = new System.Drawing.Size(129, 23);
             this.CheckbxShowPas.TabIndex = 7;
             this.CheckbxShowPas.Text = "Show Password";
             this.CheckbxShowPas.UseVisualStyleBackColor = true;
@@ -167,9 +167,9 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(67, 589);
+            this.label5.Location = new System.Drawing.Point(97, 582);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(214, 23);
+            this.label5.Size = new System.Drawing.Size(181, 19);
             this.label5.TabIndex = 10;
             this.label5.Text = "Already Have An Account";
             this.label5.Click += new System.EventHandler(this.label5_Click);
@@ -179,19 +179,19 @@
             this.label6.AutoSize = true;
             this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label6.ForeColor = System.Drawing.Color.Crimson;
-            this.label6.Location = new System.Drawing.Point(109, 626);
+            this.label6.Location = new System.Drawing.Point(124, 629);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(131, 23);
+            this.label6.Size = new System.Drawing.Size(110, 19);
             this.label6.TabIndex = 11;
             this.label6.Text = "Back to LOG IN";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // frmRegister
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(397, 685);
+            this.ClientSize = new System.Drawing.Size(362, 686);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button2);
